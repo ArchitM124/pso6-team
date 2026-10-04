@@ -1,4 +1,6 @@
 Team Members: A-ArchitM124  B-hkoppuri
 Favorite Programming Language: TBD
+<<<<<<< HEAD
 Team motto: Code today, improve tomorrow
+
 
